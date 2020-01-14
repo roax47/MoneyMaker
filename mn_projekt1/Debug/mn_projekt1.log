@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\roax4\source\repos\mn_projekt1\mn_projekt1\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\roax4\source\repos\mn_projekt1\mn_projekt1\main.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  mn_projekt1.vcxproj -> C:\Users\Roax4\source\repos\mn_projekt1\Debug\mn_projekt1.exe
